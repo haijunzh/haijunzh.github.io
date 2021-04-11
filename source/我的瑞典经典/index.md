@@ -32,3 +32,37 @@ description: 我参加的En Svensk Klassiker瑞典经典系列赛事
 | :------ | ------: |
 | 2019-08-02 | {% post_link 我的环韦特恩湖自行车赛2019 %} |
 | 2019-03-20 | {% post_link 我的瓦萨越野滑雪赛2019 %} |
+
+<br/><br/>
+
+**<center>我要评论(使用Valine)</center>**
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="vcomments"></div>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'grU7XIKPtRS7nTbfXw8AA5fF-gzGzoHsz',
+        appKey: 'bTUquNUVAFQq4eRqG4aRMdb4'
+    })
+</script>
+
+<br/><br/>
+**<center>我要评论(使用Disqus)</center>**
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+	var disqus_config = function () {
+		this.page.url = 'https://zhouhaijun.com/我的瑞典经典';  // Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = '/我的瑞典经典'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+	
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://zhouhaijun-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
