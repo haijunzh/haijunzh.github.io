@@ -27,7 +27,7 @@ description: 我参加的En Svensk Klassiker瑞典经典系列赛事
 
 * 山地地形跑步，30公里的[Lidingöloppet](https://lidingoloppet.se/)，每年9月的最后一个周末进行。
 
-### 我的瑞典经典赛事帖子
+### 有关瑞典经典赛事帖子
 | 日期 | 帖子 |
 | :------ | ------: |
 | 2019-08-02 | {% post_link 我的环韦特恩湖自行车赛2019 %} |
