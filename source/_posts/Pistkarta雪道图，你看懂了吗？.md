@@ -88,26 +88,23 @@ Lift缆车，就是把滑雪者运送到雪坡顶上的缆索运输系统。在�
 
 ### 常见滑雪词汇
 
-最后附上常见的几个滑雪词汇，分三栏，分别是瑞典语、英语和中文对照翻译。
-
-| 瑞典语 | 英语 | 中文 |
-| ------ | ------ | ------ |
-| skid(skidor) | ski(skis) | 滑雪板/滑雪双板 |
-| skidåkning | skiing | 滑雪 |
-| snowboard | snowboard | 单板/滑单板 |
-| stavar | poles | 滑雪杖 |
-| pjäxor | boots | 滑雪靴 |
-| piste/backe | track/trail/slope | 滑雪坡道/滑道 |
-| off-piste | off-pisteskiing | 滑野坡 |
-| pistkarta | piste map | 滑雪坡道图/雪道图 |
-| lift | lift | 缆车 |
-| liftkort | ski pass/lift ticket | 缆车票 |
-| skidskola | skiing school | 滑雪学校 |
-| skidanläggning | skiing resort | 滑雪场 |
-| skidort | skiing resort | 滑雪胜地 |
-| alpin/downhill/slalom | alpine/downhill/slalom | 高山滑雪 |
-| längdåkning/längdskidåkning | cross country skiing | 越野滑雪 |
-| längdskidor | crosscountry skis | 越野滑雪板 |
+最后附上常见的几个滑雪词汇，瑞典语、英语和中文对照翻译。
+ skid(skidor)， ski(skis),  滑雪板/滑雪双板
+ skidåkning， skiing,  滑雪
+ snowboard， snowboard,  单板/滑单板
+ stavar， poles,  滑雪杖
+ pjäxor， boots,  滑雪靴
+ piste/backe， track/trail/slope,  滑雪坡道/滑道
+ off-piste， off-pisteskiing,  滑野坡
+ pistkarta， piste map,  滑雪坡道图/雪道图
+ lift， lift,  缆车
+ liftkort， ski pass/lift ticket,  缆车票
+ skidskola， skiing school,  滑雪学校
+ skidanläggning， skiing resort,  滑雪场 
+ skidort， skiing resort,   滑雪胜地
+ alpin/downhill/slalom， alpine/downhill/slalom,  高山滑雪
+ längdåkning/längdskidåkning， cross country skiing,  越野滑雪
+ längdskidor， crosscountry skis,  越野滑雪板
 
 <br/>
 注：文中图片多来自网络。
