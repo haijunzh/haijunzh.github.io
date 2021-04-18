@@ -35,7 +35,7 @@ description: 我参加的En Svensk Klassiker瑞典经典系列赛事
 
 <br/><br/>
 
-**<center>我要评论(使用Valine)</center>**
+**<center>我要评论/留言(使用Valine)</center>**
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <div id="vcomments"></div>
 <script>
@@ -47,7 +47,7 @@ description: 我参加的En Svensk Klassiker瑞典经典系列赛事
 </script>
 
 <br/><br/>
-**<center>我要评论(使用Disqus)</center>**
+**<center>我要评论/留言(使用Disqus)</center>**
 <div id="disqus_thread"></div>
 <script>
     /**

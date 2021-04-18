@@ -6,16 +6,18 @@ date: 2021-03-28
 
 
 | 日期 | 帖子 |
-| :------ | ------: |
+| ------ | ------ |
 | 2021-03-28 | {% post_link 兔子可乐的情绪 %} |
-| 2020-02-27 | {% post_link 盘点瑞典著名的滑雪胜地（一） %} |
+| 2020-02-27 | {% post_link 盘点瑞典著名的滑雪胜地（二） %} |
+| 2020-02-26 | {% post_link 盘点瑞典著名的滑雪胜地（一） %} |
+| 2019-12-26 | {% post_link Pistkarta雪道图，你看懂了吗？ %} |
 | 2019-12-26 | {% post_link 八一八离斯京最近的两个雪场 %} |
 | 2019-08-30 | {% post_link 在瑞典的上班族，如何挤出时间锻炼？ %} |
 | 2019-08-17 | {% post_link 在瑞典的上班族，如何“打发”时间 %} |
 
 <br/><br/>
 
-**<center>我要评论(使用Valine)</center>**
+**<center>我要评论/留言(使用Valine)</center>**
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <div id="vcomments"></div>
 <script>
@@ -27,7 +29,7 @@ date: 2021-03-28
 </script>
 
 <br/><br/>
-**<center>我要评论(使用Disqus)</center>**
+**<center>我要评论/留言(使用Disqus)</center>**
 <div id="disqus_thread"></div>
 <script>
     /**
