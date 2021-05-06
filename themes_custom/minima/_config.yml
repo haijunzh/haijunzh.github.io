@@ -29,13 +29,14 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+# placename: Earth
+# placelink: https://en.wikipedia.org/wiki/Earth
+# github: https://github.com/adisaktijrs
+# linkedin: https://linkedin.com/in/adisaktijrs
+# twitter: https://twitter.com/adisaktijrs
+# instagram: https://instagram.com/adisaktijrs
+# stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+rss: /atom.xml
 
 # Misc
 nanobar: /js/nanobar.min.js
